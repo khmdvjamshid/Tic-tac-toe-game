@@ -1,4 +1,3 @@
-#try for git
 import os
 from random import randint
 
